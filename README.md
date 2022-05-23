@@ -25,7 +25,7 @@
     <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
     <a href="https://kafka.apache.org/"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
     <a href="https://github.com/gin-gonic/gin"> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="gin" width="40" height="40"/> </a>
-    <a href="https://github.com/valyala/fasthttp"> <img src="https://raw.githubusercontent.com/fasthttp/docs-assets/master/banner.png" alt="fasthttp" width="40" height="40"/> </a>
+    <a href="https://github.com/valyala/fasthttp"> <img src="https://raw.githubusercontent.com/fasthttp/docs-assets/master/avatar.png" alt="fasthttp" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">DevOps:</h3>
